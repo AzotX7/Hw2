@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeW1</string>
+    <string name="add_item">Добавить элемент</string>
+    <string name="add_random">Добавить случайные элементы</string>
+    <string name="remove_random">Удалить случайные элементы</string>
+    <string name="add_one">Добавить один элемент</string>
+    <string name="remove_one">Удалить один элемент</string>
+</resources>
